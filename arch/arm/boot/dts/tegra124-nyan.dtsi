@@ -57,6 +57,10 @@
 			status = "okay";
 		};
 	};
+	
+	cec@70015000 {
+		status = "okay";
+	};
 
 	gpu@0,57000000 {
 		status = "okay";
